@@ -127,6 +127,7 @@
     <Compile Include="Models\Prodotto.cs" />
     <Compile Include="Models\Carrello.cs" />
     <Compile Include="Models\Transazione.cs" />
+    <Compile Include="Models\Magazzino.cs" />
     <Compile Include="Models\Utente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
