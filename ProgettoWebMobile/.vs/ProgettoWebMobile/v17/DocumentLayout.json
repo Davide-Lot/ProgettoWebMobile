@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\nuova cartella\\progettowebmobile\\progettowebmobile\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\progettowebmobile\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\progettowebmobile\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\progettowebmobile\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T13:53:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T13:53:54.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T13:53:52.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:53:43.679Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
