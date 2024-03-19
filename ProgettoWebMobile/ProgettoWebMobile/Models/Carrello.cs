@@ -49,5 +49,13 @@ namespace ProgettoWebMobile.Modelli
                 QuantitaProdotti = ListaProdotti.Count;
             return QuantitaProdotti;
         }
+
+        // Metodo per svuotare il carrello
+        public void SvuotaCarrello()
+        {
+            {
+                ListaProdotti.Clear(); 
+            }
+        }
     }
 }

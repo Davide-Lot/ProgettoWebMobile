@@ -1,4 +1,5 @@
 ﻿
+using ProgettoWebMobile.Modelli;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -18,9 +19,12 @@ namespace ProgettoWebMobile.Models
         public string Telefono { get; set; }
         public DateTime DataNascita { get; set; }
         public string Indirizzo { get; set; }
+        public List<Carta> CarteUtente { get; set; }
+        public Carrello CarrelloUtente { get; set; }
 
         public Utente() { }
-        public Utente(string username,string nome,string cognome,string email, string password, string telefono, DateTime dataNascita, string indirizzo)
+        public Utente(string username, string nome, string cognome, string email, string password, string telefono, 
+            DateTime dataNascita, string indirizzo, Carrello carrelloUtente)
         {
             Username = username;
             Nome = nome;
@@ -30,8 +34,58 @@ namespace ProgettoWebMobile.Models
             Telefono = telefono;
             DataNascita = dataNascita;
             Indirizzo = indirizzo;
+            CarteUtente = new List<Carta>();
+            CarrelloUtente = carrelloUtente;
         }
 
+        // Metodo per aggiornare i dettagli dell'utente
+        public void AggiornaUtente(string nome, string cognome, string email, string telefono, DateTime dataNascita, string indirizzo)
+        {
+            Nome = nome;
+            Cognome = cognome;
+            Email = email;
+            Telefono = telefono;
+            DataNascita = dataNascita;
+            Indirizzo = indirizzo;
+        }
+
+        // Metodo per cambiare la password dell'utente
+        public void CambiaPassword(string nuovaPassword)
+        {
+            Password = nuovaPassword;
+        }
+        public bool EffettuaPagamentoConCarta(decimal importo, Carta cartaUtilizzata)
+        {
+            // Verifica delle condizioni necessarie per effettuare il pagamento
+            if (importo < 0 || CarteUtente.Count == 0 || !CarteUtente.Contains(cartaUtilizzata) || cartaUtilizzata.Saldo < importo)
+            {
+                return false;
+            }
+
+            // Effettua il pagamento sottraendo l'importo dal saldo sulla carta
+            cartaUtilizzata.Saldo -= importo;
+
+            // Aggiungi qui la logica per completare l'operazione di pagamento
+
+            return true; // Pagamento effettuato con successo
+        }
+        public void AggiungiProdottoACarrello(Prodotto prodotto, Carrello carrello)
+        { 
+            // Aggiunge il prodotto al carrello dell'utente
+            carrello.ListaProdotti.Add(prodotto);
+
+                // Aggiorna la data di ultima modifica del carrello
+                carrello.DataUltimaModifica = DateTime.Now;
+        }
+
+        public void RimuoviProdottoACarrello(Prodotto prodotto, Carrello carrello)
+        {
+                // Aggiunge il prodotto al carrello dell'utente
+                carrello.ListaProdotti.Remove(prodotto);
+
+                // Aggiorna la data di ultima modifica del carrello
+                carrello.DataUltimaModifica = DateTime.Now; 
+        }
 
     }
 }

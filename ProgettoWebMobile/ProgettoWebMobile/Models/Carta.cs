@@ -17,16 +17,17 @@ namespace ProgettoWebMobile.Modelli
         [MaxLength (3)]
         public int Cvv {  get; set; }
         public string NomeProprietario { get; set; }
-
+        public decimal Saldo { get; set; }
         public Carta() { }
 
-        public Carta(int idCarta, int numeroCarta, DateTime dataScadenza, int cvv, string nomeProprietario)
+        public Carta(int idCarta, int numeroCarta, DateTime dataScadenza, int cvv, string nomeProprietario, decimal saldo)
         {
             IDCarta = idCarta;
             NumeroCarta = numeroCarta;
             DataScadenza = dataScadenza;
             Cvv = cvv;
             NomeProprietario = nomeProprietario;
+            Saldo = saldo;
         }
     }
 }
