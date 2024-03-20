@@ -184,12 +184,13 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\PersonalArea.cshtml" />
-    <Content Include="Views\Home\Products.cshtml" />
+    <Content Include="Views\Home\AreaPersonale.cshtml" />
+    <Content Include="Views\Home\Prodotti.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Home\Register.cshtml" />
+    <Content Include="Views\Home\Registrazione.cshtml" />
     <Content Include="Views\Home\Carrello.cshtml" />
-    <Content Include="Views\Home\Transaction.cshtml" />
+    <Content Include="Views\Home\Transazioni.cshtml" />
+    <Content Include="Views\Home\.gitattributes" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
