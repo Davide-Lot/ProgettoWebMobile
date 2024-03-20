@@ -1,22 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\",
+  "WorkspaceRootPath": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\shaft\\desktop\\universit\u00E0\\progettowebmobile\\progettowebmobile\\progettowebmobile\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\repo\\progettowebmobile\\progettowebmobile\\views\\home\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\home\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\shaft\\desktop\\universit\u00E0\\progettowebmobile\\progettowebmobile\\progettowebmobile\\models\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\repo\\progettowebmobile\\progettowebmobile\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\shaft\\desktop\\universit\u00E0\\progettowebmobile\\progettowebmobile\\progettowebmobile\\models\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\repo\\progettowebmobile\\progettowebmobile\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\repo\\progettowebmobile\\progettowebmobile\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\repo\\progettowebmobile\\progettowebmobile\\models\\magazzino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\magazzino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\progettowebmobile\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\repo\\progettowebmobile\\progettowebmobile\\models\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\carta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\shaft\\desktop\\universit\u00E0\\progettowebmobile\\progettowebmobile\\progettowebmobile\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\progettowebmobile\\models\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\carrello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|c:\\users\\pilade\\desktop\\repo\\progettowebmobile\\progettowebmobile\\views\\home\\carrello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\home\\carrello.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\progettowebmobile\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\.vs\\ProgettoWebMobile\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ProgettoWebMobile\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\progettowebmobile\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\progettowebmobile\\models\\transazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\models\\transazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pilade\\Desktop\\repo\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\progettowebmobile\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECD831-51EB-4C4A-ABC2-245946537B64}|ProgettoWebMobile\\ProgettoWebMobile.csproj|solutionrelative:progettowebmobile\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +75,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,55 +83,221 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Prodotto.cs",
-              "DocumentMoniker": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Prodotto.cs",
-              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Prodotto.cs",
-              "ToolTip": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Prodotto.cs",
-              "RelativeToolTip": "ProgettoWebMobile\\Models\\Prodotto.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAzwBwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:59:33.862Z",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Transaction.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Home\\Transaction.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Transaction.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Home\\Transaction.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:45:59.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Carrello.cs",
-              "DocumentMoniker": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carrello.cs",
-              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Carrello.cs",
-              "ToolTip": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carrello.cs",
-              "RelativeToolTip": "ProgettoWebMobile\\Models\\Carrello.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:56:34.297Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:46:23.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Utente.cs",
-              "DocumentMoniker": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Utente.cs",
-              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Utente.cs",
-              "ToolTip": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Utente.cs",
-              "RelativeToolTip": "ProgettoWebMobile\\Models\\Utente.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAUwE4AAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Web.config",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Web.config",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-19T18:46:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Magazzino.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Magazzino.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Magazzino.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Magazzino.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Models\\Magazzino.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:55:02.84Z",
+              "WhenOpened": "2024-03-19T18:41:40.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carrello.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Carrello.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Home\\Carrello.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Carrello.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Home\\Carrello.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:41:32.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Carta.cs",
-              "DocumentMoniker": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carta.cs",
-              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Carta.cs",
-              "ToolTip": "C:\\Users\\shaft\\Desktop\\Universit\u00E0\\ProgettoWebMobile\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carta.cs",
-              "RelativeToolTip": "ProgettoWebMobile\\Models\\Carta.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T16:54:53.104Z",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T18:37:34.785Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "applicationhost.config",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\.vs\\ProgettoWebMobile\\config\\applicationhost.config",
+              "RelativeDocumentMoniker": ".vs\\ProgettoWebMobile\\config\\applicationhost.config",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\.vs\\ProgettoWebMobile\\config\\applicationhost.config",
+              "RelativeToolTip": ".vs\\ProgettoWebMobile\\config\\applicationhost.config",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAJ0AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-19T18:09:16.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carta.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carta.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Carta.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carta.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Models\\Carta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:00:32.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transazione.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Transazione.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Transazione.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Transazione.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Models\\Transazione.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:55:06.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Prodotto.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Prodotto.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Models\\Prodotto.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA2wC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:30:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Utente.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Models\\Utente.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA9wBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:29:49.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProgettoWebMobile\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T13:53:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrello.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carrello.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Models\\Carrello.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Models\\Carrello.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Models\\Carrello.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:07:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-03-19T16:39:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "..\\..\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T13:53:54.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "..\\..\\pilade\\studio\\corsi\\applicazioni web\\progetto applicazioni web-mobile\\Nuova cartella\\ProgettoWebMobile\\ProgettoWebMobile\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T13:53:52.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pilade\\Desktop\\repo\\ProgettoWebMobile\\ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProgettoWebMobile\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:53:43.679Z"
             }
           ]
         },

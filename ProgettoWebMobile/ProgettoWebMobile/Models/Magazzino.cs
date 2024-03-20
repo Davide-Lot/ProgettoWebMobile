@@ -1,5 +1,4 @@
-﻿using Microsoft.Analytics.Interfaces;
-using Microsoft.Analytics.Types.Sql;
+﻿
 using ProgettoWebMobile.Modelli; // Importa il namespace per la classe Prodotto
 using System;
 using System.Collections.Generic;
