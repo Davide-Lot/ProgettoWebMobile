@@ -191,6 +191,7 @@
     <Content Include="Views\Home\Carrello.cshtml" />
     <Content Include="Views\Home\Transazioni.cshtml" />
     <Content Include="Views\Home\.gitattributes" />
+    <Content Include="Views\Home\Login.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
