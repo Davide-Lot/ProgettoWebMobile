@@ -25,10 +25,12 @@ namespace ProgettoWebMobile.Modelli
         public string Taglia { get; set; }
         public string Colore { get; set; }
         public string Materiale { get; set; }
+        public int Disponibilita { get; set; }
 
         public Prodotto(int idProdotto, string nome, string descrizione, decimal prezzo, string categoria, string marchio,
                         double peso, double lunghezza, double larghezza, double altezza, DateTime dataCreazione, 
-                        DateTime dataUltimaModifica, string taglia, string colore, string materiale)
+                        DateTime dataUltimaModifica, string taglia, string colore,
+                        string materiale, int disponibilita)
         {
             IDProdotto = idProdotto;
             Nome = nome;
@@ -45,6 +47,7 @@ namespace ProgettoWebMobile.Modelli
             Taglia = taglia;
             Colore = colore;
             Materiale = materiale;
+            Disponibilita = disponibilita;
         }
 
     }
