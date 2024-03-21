@@ -1,23 +1,47 @@
 ﻿@{
     ViewBag.Title = "Registrazione";
 }
-<main aria-labelledby="title">
+
+<body>
+
     <h2 id="title">@ViewBag.Title.</h2>
     <h3>@ViewBag.Message</h3>
 
     <p>Use this area to provide additional information.</p>
-    <form action="Login.cshtml">
-        <label for="fname">First name:</label><br>
-        <input type="text" id="fname" name="fname" value="Porco"><br>
-        <label for="lname">Last name:</label><br>
-        <input type="text" id="lname" name="lname" value="Doe"><br><br>
-        <input type="submit" value="Submit">
-        <label for="em">Email:</label><br>
-        <input type="text" id="em" name="Email"><br>
-        <label for="Pss">Password:</label><br>
-        <input type="password" id="Pss" name="Password"><br>
-        <label for="Pss2">Conferma password:</label><br>
-        <input type="password" id="Pss2" name="Conferma password"><br>
-        <input type="submit" value="Submit">
+    <form action="https://localhost:44330/Home/Login" method="post">
+        <div class="row">
+            <div class="col-12 mt-4">
+                <label class=" mb-0" for="nome">Nome *</label><br>
+                <input class="form-control form-control-lg" type="text" name="nome" id="nome"
+                       placeholder="Nome" minlength="3" required />
+            </div>
+            
+
+            <div class="col-12 mt-4">
+                <label class=" mb-0" for="username">Email *</label><br>
+                <input class="form-control form-control-lg mt-2" type="email" name="username" id="username"
+                       placeholder="Email" required
+                       />
+            </div>
+            <div class="col-12 position-relative mt-4">
+                <label class="" for="password">Password *</label>
+                <input class="form-control form-control-lg" type="password" name="password" id="password"
+                       placeholder="Password" required minlength="8" />
+                <span class="show-password-input"></span>
+            </div>
+
+            <div class="col-12 position-relative mt-4">
+                <label for="password2">Conferma Password *</label>
+                <input class="form-control form-control-lg" type="password" name="password2" id="password2"
+                       placeholder="Conferma Password" required minlength="8" />
+                <span class="show-password-input"></span>
+            </div>
+
+            <div class="col-12 mt-4 mb-4">
+                <input type="submit" class="btn btn-lg btn-primary w-100" name="signupSubmit"
+                       value="Registrati" />
+            </div>
+        </div>
+
     </form>
-</main>
+</body

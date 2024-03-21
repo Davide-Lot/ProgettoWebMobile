@@ -6,11 +6,28 @@
     <h3>@ViewBag.Message</h3>
 
     <p>Use this area to provide additional information.</p>
-    <form action="index.cshtml">
-        <label for="em">Email:</label><br>
-        <input type="text" id="em" name="Email"><br>
-        <label for="Pss">Password:</label><br>
-        <input type="password" id="Pss" name="Password"><br>
-        <input type="submit" value="Submit">
+    <form action="https://localhost:44330/Home/Login" method="post">
+        <div class="row">
+            <div class="col-12 mt-4">
+                <label class=" mb-0" for="username">Email *</label><br>
+                <input class="form-control form-control-lg mt-2" type="email" name="username" id="username"
+                       placeholder="Email" required />
+            </div>
+            <div class="col-12 position-relative mt-4">
+                <label class="" for="password">Password *</label>
+                <input class="form-control form-control-lg" type="password" name="password" id="password"
+                       placeholder="Password" required minlength="8" />
+                <span class="show-password-input"></span>
+            </div>
+
+           
+
+            <div class="col-12 mt-4 mb-4">
+                <input type="submit" class="btn btn-lg btn-primary w-100" name="signupSubmit"
+                       value="Registrati" />
+            </div>
+        
+        </div>
+
     </form>
 </main>
