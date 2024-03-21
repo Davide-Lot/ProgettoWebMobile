@@ -26,5 +26,27 @@ namespace ProgettoWebMobile.Controllers
 
             return View();
         }
+
+        public ActionResult Carrello()
+        {
+            return View();
+        }
+
+        public ActionResult AreaPersonale()
+        {
+            return View();
+        }
+        public ActionResult Prodotti()
+        {
+            return View();
+        }
+        public ActionResult Registrazione()
+        {
+            return View();
+        }
+        public ActionResult Transazioni()
+        {
+            return View();
+        }
     }
 }

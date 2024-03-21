@@ -1,5 +1,4 @@
-﻿using Microsoft.Analytics.Interfaces;
-using Microsoft.Analytics.Types.Sql;
+﻿
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -29,8 +28,7 @@ namespace ProgettoWebMobile.Modelli
 
         public Prodotto(int idProdotto, string nome, string descrizione, decimal prezzo, string categoria, string marchio,
                         double peso, double lunghezza, double larghezza, double altezza, DateTime dataCreazione, 
-                        DateTime dataUltimaModifica, string taglia, string colore,
-                        string materiale, int disponibilita)
+                        DateTime dataUltimaModifica, string taglia, string colore, string materiale, int disponibilita)
         {
             IDProdotto = idProdotto;
             Nome = nome;
