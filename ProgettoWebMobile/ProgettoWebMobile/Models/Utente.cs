@@ -69,23 +69,7 @@ namespace ProgettoWebMobile.Models
 
             return true; // Pagamento effettuato con successo
         }
-        public void AggiungiProdottoACarrello(Prodotto prodotto, Carrello carrello)
-        { 
-            // Aggiunge il prodotto al carrello dell'utente
-            carrello.ListaProdotti.Add(prodotto);
-
-                // Aggiorna la data di ultima modifica del carrello
-                carrello.DataUltimaModifica = DateTime.Now;
-        }
-
-        public void RimuoviProdottoACarrello(Prodotto prodotto, Carrello carrello)
-        {
-                // Aggiunge il prodotto al carrello dell'utente
-                carrello.ListaProdotti.Remove(prodotto);
-
-                // Aggiorna la data di ultima modifica del carrello
-                carrello.DataUltimaModifica = DateTime.Now; 
-        }
+        
 
     }
 }

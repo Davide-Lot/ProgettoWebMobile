@@ -56,5 +56,16 @@ namespace ProgettoWebMobile.Modelli
                 ListaProdotti.Clear(); 
             }
         }
+        public void AggiungiProdotto(Prodotto prodotto)
+        {
+            // Aggiunge il prodotto al carrello dell'utente
+            ListaProdotti.Add(prodotto);
+        }
+
+        public void RimuoviProdotto(Prodotto prodotto)
+        {
+            // Aggiunge il prodotto al carrello dell'utente
+            ListaProdotti.Remove(prodotto);
+        }
     }
 }
