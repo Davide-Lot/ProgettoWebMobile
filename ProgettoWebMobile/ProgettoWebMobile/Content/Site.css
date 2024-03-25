@@ -13,3 +13,8 @@
 }
 
 /* Set width on the form input elements since they're 100% wide by default */
+
+.mr-3{margin-right: 30px;}
+.col49 {
+    width: 49%;
+}
